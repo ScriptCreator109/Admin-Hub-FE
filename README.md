@@ -7,7 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptCreator109/Admi
 ## Information
 
 56 commands!
-1327 lines!
+1332 lines!
 4:36H to make!
 
 ## Hub language
