@@ -6,6 +6,11 @@ local TeleportService = game:GetService("TeleportService")
 local HttpService = game:GetService("HttpService")
 local LP = Players.LocalPlayer
 
+-- Bloqueia queue_on_teleport globalmente
+queue_on_teleport = nil
+syn = nil
+fluxus = nil
+
 local PREFIX = ";"
 local flySpeed = 50
 local flying, noclipOn, infJumpOn, flingOn, espOn, godOn, fbOn, fogOn, miniOn = false,false,false,false,false,false,false,false,false
