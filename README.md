@@ -1,15 +1,15 @@
 # Admin-Hub-FE
 
-##Loadstring
+## Loadstring
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptCreator109/Admin-Hub-FE/refs/heads/main/admin_FE.lua"))()
 
-##Information
+## Information
 
 56 commands!
 1327 lines!
 4:36H to make!
 
-##Hub linguage
+## Hub linguage
 Portuguese (brazilian)
 
