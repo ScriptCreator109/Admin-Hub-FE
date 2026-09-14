@@ -10,6 +10,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptCreator109/Admi
 1327 lines!
 4:36H to make!
 
-## Hub linguage
+## Hub language
 Portuguese (brazilian)
 
